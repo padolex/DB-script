@@ -1,6 +1,6 @@
 # DB-script
 
+.lldbinit
 ```
-# .lldbinit
 command script import ./first.py
 ```
